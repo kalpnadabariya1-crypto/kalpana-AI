@@ -1,2 +1,29 @@
-# kalpana-AI
-I'm currently learning **Large Language Models (LLMs)**, Python, and Machine Learning through online resources.   I use GitHub to share my practice projects, Kaggle notebooks, and experiments as I grow my skills in AI.  
+
+# 👋 Hi, I'm Kalpana  
+
+🚀 Aspiring AI & Machine Learning Enthusiast  
+📚 Currently learning **Large Language Models (LLMs)** online  
+💻 Exploring Python, Kaggle, and Open Source  
+🌱 Beginner, but passionate about building AI projects  
+
+---
+
+## 🔧 Skills (Learning & Practicing)
+- Python 🐍  
+- Data Analysis (Pandas, NumPy)  
+- Machine Learning Basics  
+- LLMs (Transformers, Prompt Engineering)  
+
+---
+
+## 📌 Current Focus
+- Exploring Hugging Face 🤗  
+- Hands-on practice with Kaggle notebooks  
+- Building small AI projects  
+
+---
+
+## 🌐 Connect with Me
+- [Kaggle](https://kaggle.com/kalpnadabariya)  
+- [LinkedIn](www.linkedin.com/in/kalpana-dabariya-212b54306)  
+
